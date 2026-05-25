@@ -42,6 +42,10 @@ export default function HomePage() {
               <Button variant="outline" asChild>
                 <Link href="/progress">Read Progress</Link>
               </Button>
+
+              <Button variant="outline" asChild>
+                <Link href="/learning-list">Learning Checklist</Link>
+              </Button>
             </div>
           </div>
 
